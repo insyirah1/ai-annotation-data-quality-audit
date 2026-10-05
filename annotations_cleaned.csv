@@ -1,0 +1,92 @@
+﻿task_id,annotator_id,task_type,label,reviewer_score,status,submitted_date
+T001,A011,Response Evaluation,Approved,5,Reviewed,2026-06-08
+T002,A003,Response Evaluation,Needs Review,5,Pending,2026-05-19
+T003,A007,Response Evaluation,Approved,3,Completed,2026-06-17
+T004,A010,Response Evaluation,Needs Review,4,Pending,2026-08-08
+T005,A008,Search Relevance,Approved,4,Pending,2026-08-11
+T006,A005,Transcription,Approved,4,Completed,2026-05-13
+T007,A002,Search Relevance,Rejected,5,Reviewed,2026-05-24
+T008,A008,Response Evaluation,Rejected,3,Pending,2026-07-27
+T009,A011,Search Relevance,Needs Review,4,Pending,2026-05-02
+T010,A011,Transcription,Rejected,3,Completed,2026-05-13
+T011,A005,Data Annotation,Needs Review,4,Completed,2026-07-12
+T012,A004,Search Relevance,Needs Review,5,Pending,2026-05-20
+T013,A011,Transcription,Needs Review,5,Completed,2026-06-15
+T014,A007,Search Relevance,Needs Review,5,Pending,2026-06-22
+T015,A006,Response Evaluation,Approved,3,Reviewed,2026-08-09
+T016,A002,Transcription,Needs Review,5,Reviewed,2026-06-21
+T017,A008,Data Annotation,Needs Review,5,Completed,2026-07-05
+T018,A004,Search Relevance,Needs Review,5,Reviewed,2026-08-12
+T019,A004,Transcription,Needs Review,5,Completed,2026-05-28
+T020,A002,Transcription,Needs Review,4,Pending,2026-08-20
+T021,A002,Data Annotation,Rejected,5,Reviewed,2026-07-18
+T022,A014,Response Evaluation,Needs Review,5,Completed,2026-07-25
+T023,A011,Search Relevance,Approved,4,Reviewed,2026-06-15
+T024,A001,Search Relevance,Needs Review,4,Pending,2026-05-28
+T025,A011,Search Relevance,Needs Review,5,Pending,2026-06-05
+T026,A006,Transcription,Needs Review,5,Completed,2026-07-16
+T027,A001,Response Evaluation,Rejected,4,Completed,2026-05-08
+T028,A015,Response Evaluation,Approved,5,Reviewed,2026-05-25
+T029,A009,Transcription,Approved,5,Reviewed,2026-06-09
+T030,A009,Data Annotation,Approved,5,Pending,2026-06-23
+T031,A005,Data Annotation,Needs Review,5,Reviewed,2026-08-17
+T032,A008,Response Evaluation,Approved,4,Completed,2026-07-01
+T033,A010,Transcription,Needs Review,4,Completed,2026-05-23
+T034,A011,Response Evaluation,Approved,3,Completed,2026-07-03
+T035,A009,Transcription,Rejected,5,Reviewed,2026-06-18
+T036,A003,Data Annotation,Approved,5,Reviewed,2026-06-04
+T037,A002,Data Annotation,Rejected,5,Reviewed,2026-08-28
+T038,A012,Response Evaluation,Needs Review,5,Pending,2026-05-02
+T039,A007,Search Relevance,Approved,4,Completed,2026-06-18
+T040,A008,Transcription,Rejected,4,Reviewed,2026-08-08
+T041,A014,Response Evaluation,Rejected,5,Completed,2026-05-21
+T042,A009,Response Evaluation,Approved,4,Completed,2026-08-16
+T043,A008,Transcription,Rejected,3,Completed,2026-08-01
+T044,A007,Search Relevance,Rejected,4,Reviewed,2026-08-05
+T045,A004,Search Relevance,Approved,3,Pending,2026-05-24
+T046,A006,Response Evaluation,Approved,5,Reviewed,2026-06-02
+T047,A009,Response Evaluation,Approved,3,Pending,2026-05-22
+T048,A014,Transcription,Rejected,3,Pending,2026-06-19
+T049,A010,Response Evaluation,Needs Review,3,Reviewed,2026-07-09
+T050,A004,Search Relevance,Approved,4,Reviewed,2026-06-22
+T051,A011,Search Relevance,Rejected,4,Completed,2026-05-15
+T052,A010,Response Evaluation,Approved,5,Completed,2026-07-05
+T053,A015,Search Relevance,Approved,4,Reviewed,2026-07-06
+T054,A008,Search Relevance,Needs Review,5,Pending,2026-05-22
+T055,A014,Search Relevance,Needs Review,3,Completed,2026-07-04
+T056,A015,Response Evaluation,Needs Review,5,Completed,2026-07-10
+T057,A010,Transcription,Needs Review,4,Completed,2026-07-17
+T058,A008,Search Relevance,Approved,3,Pending,2026-08-27
+T059,A005,Response Evaluation,Approved,4,Completed,2026-07-06
+T060,A012,Data Annotation,Needs Review,5,Reviewed,2026-05-04
+T061,A002,Transcription,Needs Review,3,Reviewed,2026-06-14
+T062,A003,Response Evaluation,Rejected,4,Completed,2026-07-07
+T063,A011,Transcription,Needs Review,3,Reviewed,2026-08-20
+T064,A012,Transcription,Approved,4,Completed,2026-08-01
+T065,A003,Search Relevance,Rejected,5,Pending,2026-06-09
+T066,A003,Response Evaluation,Rejected,3,Reviewed,2026-06-07
+T067,A014,Data Annotation,Rejected,4,Completed,2026-06-01
+T068,A011,Transcription,Rejected,4,Reviewed,2026-05-25
+T069,A005,Search Relevance,Needs Review,5,Reviewed,2026-07-01
+T070,A002,Search Relevance,Approved,5,Reviewed,2026-05-04
+T071,A010,Data Annotation,Rejected,5,Reviewed,2026-08-20
+T072,A009,Response Evaluation,Rejected,5,Completed,2026-07-02
+T073,A012,Data Annotation,Approved,5,Pending,2026-06-12
+T074,A007,Response Evaluation,Needs Review,4,Pending,2026-07-22
+T075,A014,Response Evaluation,Needs Review,4,Pending,2026-07-22
+T012,A004,Response Evaluation,Approved,5,Completed,2026-06-12
+T076,,Transcription,Rejected,2,Reviewed,2026-07-04
+T077,A099,Search Relevance,Approved,4,Completed,2026-07-08
+T078,A003,Data Annotation,,4,Completed,2026-07-10
+T079,A007,Response Evaluation,Approved,5,Completed,2026-07-11
+T080,A009,Response Evaluation,Approved,4,Completed,2026-07-12
+T081,A005,Search Relevance,Needs Review,3,Reviewed,2026-07-13
+T082,A002,Transcription,Rejected,6,Reviewed,2026-07-14
+T083,A011,Data Annotation,Approved,-1,Completed,2026-07-15
+T084,A001,Response Evaluation,Approved,5,Completed,2026-07-16
+T085,A013,Search Relevance,Rejected,2,Reviewed,2026-07-17
+T086,A014,Data Annotation,Approved,4,Completed,2026-13-05
+T087,A006,Transcription,Needs Review,3,Pending,not_a_date
+T088,A010,Response Evaluation,Approved,5,Completed,2026-07-19
+T089,A012,Data Annotation,Approved,,Reviewed,2026-07-20
+T090,A015,,Rejected,2,Completed,2026-07-21
