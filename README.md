@@ -88,3 +88,7 @@ The dashboard is designed to provide a clear view of dataset quality, issue dist
 - Power BI dashboard development
 - Data quality reporting and issue resolution tracking
 - Working with synthetic AI annotation data in a privacy-safe portfolio environment
+
+## Dashboard Preview
+
+![AI Annotation Data Quality Audit Dashboard](powerbi_data_quality_dashboard.png)
